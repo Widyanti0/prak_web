@@ -7,7 +7,7 @@
     <div style="display: flex; flex-direction: row; align-items: start; justify-content: center; gap: 50px;">
         <div>
             <h2>Data Mahasiswa</h2>
-            <p>Nama : Nabil Hakim</p>
+            <p>Nama : Tri Widyanti</p>
             <p>NIM : 602001190</p>
             <p>Kelas : C</p>
             <p>Jurusan : Teknik Informatika</p>
