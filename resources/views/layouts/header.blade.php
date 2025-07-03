@@ -4,7 +4,8 @@
         <a href="/about" class="{{ request()->is('about') ? 'active' : '' }}">About</a> |
         <a href="/services" class="{{ request()->is('services') ? 'active' : '' }}">Services</a> |
         <a href="/blog" class="{{ request()->is('blog') ? 'active' : '' }}">Blog</a> |
-        <a href="/biodata" class="{{ request()->is('biodata') ? 'active' : '' }}">Biodata</a>
+        <a href="/biodata" class="{{ request()->is('biodata') ? 'active' : '' }}">Biodata</a> |
+        <a href="/mahasiswa" class="{{ request()->is('mahasiswa*') ? 'active' : '' }}">Mahasiswa</a>
     </nav>
     <hr>
 </header>
